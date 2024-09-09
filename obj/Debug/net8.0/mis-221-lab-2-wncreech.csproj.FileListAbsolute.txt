@@ -1,0 +1,15 @@
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\bin\Debug\net8.0\mis-221-lab-2-wncreech.exe
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\bin\Debug\net8.0\mis-221-lab-2-wncreech.deps.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\bin\Debug\net8.0\mis-221-lab-2-wncreech.runtimeconfig.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\bin\Debug\net8.0\mis-221-lab-2-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\bin\Debug\net8.0\mis-221-lab-2-wncreech.pdb
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.AssemblyInfoInputs.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.AssemblyInfo.cs
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.csproj.CoreCompileInputs.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.sourcelink.json
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\refint\mis-221-lab-2-wncreech.dll
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.pdb
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\mis-221-lab-2-wncreech.genruntimeconfig.cache
+C:\Users\wncre\OneDrive\Documents\MIS221\mis-221-lab-2-wncreech\obj\Debug\net8.0\ref\mis-221-lab-2-wncreech.dll

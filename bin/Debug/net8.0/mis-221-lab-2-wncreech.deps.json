@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mis-221-lab-2-wncreech/1.0.0": {
+        "runtime": {
+          "mis-221-lab-2-wncreech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mis-221-lab-2-wncreech/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
